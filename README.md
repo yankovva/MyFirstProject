@@ -1,3 +1,2 @@
-# MyFirstProject
-This is one of the first projects that I have ever worked on!
-Happy to see you!
+# Product Shop
+This is a project that I worked on while being in the SoftUni training program. It is a product shop.
